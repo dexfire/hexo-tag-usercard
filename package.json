@@ -1,0 +1,25 @@
+{
+  "name": "hexo-tag-usercard",
+  "version": "1.0.0",
+  "description": "A hexo tag plugin for putting an fancy User-Info-Box with nickname, avatar and so on!",
+  "main": "hexo-tag-usercard.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dexfire/hexo-tag-usercard.git"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "plugin",
+    "userinfo"
+  ],
+  "author": "Dexfire <dexfire29@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dexfire/hexo-tag-usercard/issues"
+  },
+  "homepage": "https://github.com/dexfire/hexo-tag-usercard#readme"
+}
